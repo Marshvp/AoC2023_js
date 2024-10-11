@@ -1,0 +1,2 @@
+1: read the input.txt file
+2: print every line into console log
